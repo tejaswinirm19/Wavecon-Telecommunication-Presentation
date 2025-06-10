@@ -1,9 +1,10 @@
 # Wavecon-Telecommunication-Presentation
 👉 [Check my video presentation here](https://your-portfolio-link.com)
+
 Power BI case study analyzing 5G launch impact on revenue, user behavior, and telecom plan performance at Wavecon.
 📊 Wavecon 5G Impact Analysis (Power BI Case Study)
 
-This project analyzes the impact of the 5G rollout by **Wavecon**, a telecom provider, using interactive dashboards and KPI-driven insights. The goal: to evaluate plan performance, revenue shifts, and user behavior before and after the 5G launch — and recommend data-backed business strategies.
+This project analyzes the impact of the 5G rollout by **Wavecon**, a telecom provider, using interactive dashboards and KPI-driven insights. The goal: to evaluate plan performance, revenue shifts, and user behavior before and after the 5G launch, and recommend data-backed business strategies.
 
 ---
 
