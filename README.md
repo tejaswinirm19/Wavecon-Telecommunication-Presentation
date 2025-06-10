@@ -1,5 +1,6 @@
 # Wavecon-Telecommunication-Presentation
 👉 [Check my video presentation here](https://your-portfolio-link.com)
+👉 [Intercat with the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjlmYmM4NGQtNDM0MC00ZDhmLWI5OTgtYzI5NWEyMzRkNDNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Power BI case study analyzing 5G launch impact on revenue, user behavior, and telecom plan performance at Wavecon.
 📊 Wavecon 5G Impact Analysis (Power BI Case Study)
