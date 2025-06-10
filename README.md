@@ -51,8 +51,6 @@ This project analyzes the impact of the 5G rollout by **Wavecon**, a telecom pro
 
 ## 🤝 Let’s Connect
 
-Have feedback or want to collaborate on a similar analytics project?
-
-👉 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-👉 [Portfolio (if available)](https://your-portfolio-link.com)
+👉 [LinkedIn](https://www.linkedin.com/in/tejaswini-malagi)  
+👉 [Check my video presentation here](https://your-portfolio-link.com)
 
